@@ -3,4 +3,5 @@
 {    "name": "AN003-H",     "pkg": "com.andesigns.an003",     "icon": "https://raw.githubusercontent.com/anwatchdesigns/watch-assets/refs/heads/main/AN003%20Carousell.png"   },
 {    "name": "AN004-A",     "pkg": "com.andesigns.an004",     "icon": "https://raw.githubusercontent.com/anwatchdesigns/watch-assets/refs/heads/main/AN004%20Carousell.png"   },
 {    "name": "AN005-H",     "pkg": "com.andesigns.an005",     "icon": "https://raw.githubusercontent.com/anwatchdesigns/watch-assets/refs/heads/main/AN005%20Carousell.png"   },
-{    "name": "AN007-A",     "pkg": "com.andesigns.an007",     "icon": "https://raw.githubusercontent.com/anwatchdesigns/watch-assets/refs/heads/main/AN007%20Carousell.png"   }]
+{    "name": "AN007-A",     "pkg": "com.andesigns.an007",     "icon": "https://raw.githubusercontent.com/anwatchdesigns/watch-assets/refs/heads/main/AN007%20Carousell.png"   },
+{    "name": "AN008-D",     "pkg": "com.andesigns.an008",     "icon": "https://raw.githubusercontent.com/anwatchdesigns/watch-assets/refs/heads/main/AN008%20Carousell.png"   }]
