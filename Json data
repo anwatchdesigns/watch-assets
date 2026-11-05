@@ -2,7 +2,7 @@
 {    "name": "AN002-H",     "pkg": "com.andesigns.an002",     "icon": "https://cdn.jsdelivr.net/gh/anwatchdesigns/watch-assets@main/AN002%20Carousell.webp"   },
 {    "name": "AN003-H",     "pkg": "com.andesigns.an003",     "icon": "https://cdn.jsdelivr.net/gh/anwatchdesigns/watch-assets@main/AN003%20Carousell.webp", "sale": 50 },
 {    "name": "AN004-A",     "pkg": "com.andesigns.an004",     "icon": "https://cdn.jsdelivr.net/gh/anwatchdesigns/watch-assets@main/AN004%20Carousell.webp"   },
-{    "name": "AN005-H",     "pkg": "com.andesigns.an005",     "icon": "https://cdn.jsdelivr.net/gh/anwatchdesigns/watch-assets@main/AN005%20Carousell.webp", "sale": 100  },
+{    "name": "AN005-H",     "pkg": "com.andesigns.an005",     "icon": "https://cdn.jsdelivr.net/gh/anwatchdesigns/watch-assets@main/AN005%20Carousell.webp"  },
 {    "name": "AN006-D",     "pkg": "com.andesigns.an006",     "icon": "https://cdn.jsdelivr.net/gh/anwatchdesigns/watch-assets@main/AN006%20Carousell.webp"   },
 {    "name": "AN007-A",     "pkg": "com.andesigns.an007",     "icon": "https://cdn.jsdelivr.net/gh/anwatchdesigns/watch-assets@main/AN007%20Carousell.webp"   },
 {    "name": "AN008-D",     "pkg": "com.andesigns.an008",     "icon": "https://cdn.jsdelivr.net/gh/anwatchdesigns/watch-assets@main/AN008%20Carousell.webp"   },
